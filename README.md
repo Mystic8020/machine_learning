@@ -1,4 +1,4 @@
-# Food Time Survey by Anindya
+# Food Time Survey by Anindya Chakrabotry
 
 This is a survey of different persons' food taking time.
 
